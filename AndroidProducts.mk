@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_ursa.mk
+    $(LOCAL_DIR)/lmodroid_ursa.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_ursa-user \
-    lineage_ursa-userdebug \
-    lineage_ursa-eng
+    lmodroid_ursa-user \
+    lmodroid_ursa-userdebug \
+    lmodroid_ursa-eng
