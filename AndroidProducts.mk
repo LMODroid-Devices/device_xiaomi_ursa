@@ -15,8 +15,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_ursa.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_ursa-user \
-    lmodroid_ursa-userdebug \
-    lmodroid_ursa-eng
